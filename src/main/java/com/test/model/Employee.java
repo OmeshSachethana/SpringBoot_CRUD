@@ -1,4 +1,7 @@
 package com.test.model;
 
-public class Employee {
+import java.io.Serializable;
+
+public class Employee implements Serializable {
+
 }
